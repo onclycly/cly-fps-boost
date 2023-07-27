@@ -312,13 +312,16 @@ for i, v in pairs(Descendants) do
     end
 end
 StarterGui:SetCore("SendNotification", {
-    Title = "clycly the goat",
+    Title = "Made by Clycly",
     Text = "FPS Booster Loaded!",
     Duration = math.huge,
-    Button1 = "Okay"
+    Button1 = "GOAT"
 })
 warn("FPS Booster Loaded!")
 --game.DescendantAdded:Connect(CheckIfBad)
 --[[game.DescendantAdded:Connect(function(value)
     CheckIfBad(value)
 end)]]
+
+
+--------- UPDATED BY CLY
